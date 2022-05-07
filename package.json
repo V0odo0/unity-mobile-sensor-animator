@@ -1,0 +1,28 @@
+{
+  "name": "com.v0odo0.umsa",
+  "version": "0.1.0,
+  "author": "V0odo0",
+  "displayName": "UMSA",
+  "unity": "2020.3",
+  "description": "Lightweight, scalable and extensible texts & assets localization system for Unity.",
+  "keywords": [
+    "animation",
+    "sensor",
+	"mobile"
+	],
+  "category": "Animation",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "samples": [
+        {
+            "displayName": "App",
+            "description": "Mobile app sources",
+            "path": "Samples~/App"
+        },
+		{
+            "displayName": "Examples",
+            "description": "Usage examples",
+            "path": "Samples~/Examples"
+        }
+    ]
+}
