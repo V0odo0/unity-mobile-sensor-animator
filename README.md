@@ -45,7 +45,11 @@ Add dependency to your /YourProjectName/Packages/manifest.json
 
 ## Usage 
 
-1. Run UMSA App on your mobile device connected to the same local network as your Unity Editor application. Download and install latests Android APK here: https://github.com/V0odo0/unity-mobile-sensor-animator/releases. Or import `App` sample from package manager and compile the app yourself.
+1. Run UMSA App on your mobile device connected to the same local network as your Unity Editor application. Download and install latest Android APK here: https://github.com/V0odo0/unity-mobile-sensor-animator/releases. 
+
+You can import `App` sample from package manager and compile the app yourself.
+
+![image](https://user-images.githubusercontent.com/10213769/167266342-d86cc538-51eb-43b8-80a5-a4dab9211ab0.png)
 
 2. Open `Tools/UMSA Debugger` window and check `Auto Start Server` to start UMSA server. You will see your device in `Devices` list.
 
