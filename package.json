@@ -1,10 +1,10 @@
 {
   "name": "com.v0odo0.umsa",
-  "version": "0.1.0,
+  "version": "0.1.0",
   "author": "V0odo0",
   "displayName": "UMSA",
   "unity": "2020.3",
-  "description": "Lightweight, scalable and extensible texts & assets localization system for Unity.",
+  "description": "Mobile device sensor data as animation source.",
   "keywords": [
     "animation",
     "sensor",
